@@ -148,7 +148,7 @@ img {
     }
 
 .produtos-item h2 {
-    font-size: 3em;
+    font-size: 2em;
     color: #a4a4a4;
     background: #f7f7f7;
     padding: 60px 20px;
@@ -174,7 +174,7 @@ img {
     align-items: flex-end;
 }
 
-.produtos-item {
+.preco-item {
     flex: 1 1 260px;
     border: 4px solid white;
     padding: 20px;
